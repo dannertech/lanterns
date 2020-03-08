@@ -1,0 +1,6 @@
+framework module Pods_LanternUITests {
+  umbrella header "Pods-LanternUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

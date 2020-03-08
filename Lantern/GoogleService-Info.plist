@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1030685597238-6isuuni4puu2ad1mvpg8n980qcaf4d41.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1030685597238-6isuuni4puu2ad1mvpg8n980qcaf4d41</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0UudCu5eqCiMGdg7A8dM6pAoSJkwha_0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1030685597238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DannerOpp.Lantern</string>
+	<key>PROJECT_ID</key>
+	<string>lanterns-c92cd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lanterns-c92cd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1030685597238:ios:3c9543ef20f84422c5c297</string>
+	<key>DATABASE_URL</key>
+	<string>https://lanterns-c92cd.firebaseio.com</string>
+</dict>
+</plist>
